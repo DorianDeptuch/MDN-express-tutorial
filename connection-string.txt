@@ -1,0 +1,1 @@
+mongodb+srv://dor_the_explorer:<password>@cluster0.pciou.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
